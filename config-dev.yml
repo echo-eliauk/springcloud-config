@@ -1,2 +1,5 @@
-config：
-   info: 7001server port
+server:
+  port: 8006
+spring:
+  application:
+    name: consul-provider-payment
