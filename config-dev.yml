@@ -1,5 +1,2 @@
-server:
-  port: 8006
-spring:
-  application:
-    name: consul-provider-payment
+config:
+  log: 3355client
